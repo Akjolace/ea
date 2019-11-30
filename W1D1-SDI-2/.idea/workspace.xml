@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf27a63c-a661-4a98-975c-ecb046360b82" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1U7YvmSxqUs2295Nyo3h7YGKxhu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.mum.cs544" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.mum.cs544.App" />
+      <module name="W1D1-SDI2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.mum.cs544.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf27a63c-a661-4a98-975c-ecb046360b82" name="Default Changelist" comment="" />
+      <created>1574709333838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574709333838</updated>
+      <workItem from="1574709337448" duration="3886000" />
+      <workItem from="1575081839844" duration="2317000" />
+      <workItem from="1575084296126" duration="3408000" />
+      <workItem from="1575090965181" duration="555000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1575083557585">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1575083557585" />
+    <state width="1398" height="410" key="GridCell.Tab.0.bottom" timestamp="1575085029709">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="410" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1575085029709" />
+    <state width="1398" height="410" key="GridCell.Tab.0.center" timestamp="1575085029707">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="410" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1575085029707" />
+    <state width="1398" height="410" key="GridCell.Tab.0.left" timestamp="1575085029706">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="410" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1575085029706" />
+    <state width="1398" height="410" key="GridCell.Tab.0.right" timestamp="1575085029708">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="410" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1575085029708" />
+    <state x="208" y="31" key="SettingsEditor" timestamp="1575084157345">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1575084157345" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1575084644606">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1575084644606" />
+  </component>
+</project>
