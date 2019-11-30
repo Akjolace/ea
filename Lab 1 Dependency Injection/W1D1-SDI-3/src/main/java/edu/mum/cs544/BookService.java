@@ -14,14 +14,14 @@ public class BookService implements IBookService {
 //	@Autowired
 	private List<IBookSupplier> suppliers = new ArrayList<IBookSupplier>();
 
-	//Constructor
-//	@Autowired
-//	public BookService(List<IBookSupplier> suppliers) {
-//		this.suppliers = suppliers;
-//	}
+	//Constructor based
+	@Autowired
+	public BookService(List<IBookSupplier> suppliers) {
+		this.suppliers = suppliers;
+	}
 
 	//Setter Based
-	@Autowired
+//	@Autowired
 	public void setSuppliers(List<IBookSupplier> suppliers) {
 		this.suppliers = suppliers;
 	}
