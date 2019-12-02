@@ -1,8 +1,8 @@
 package edu.mum.cs544;
 
+import edu.mum.cs544.service.ICustomerService;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class App 
 {

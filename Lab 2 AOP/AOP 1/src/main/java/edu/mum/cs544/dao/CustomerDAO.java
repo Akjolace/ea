@@ -1,5 +1,6 @@
-package edu.mum.cs544;
+package edu.mum.cs544.dao;
 
+import edu.mum.cs544.model.Customer;
 import org.springframework.stereotype.Repository;
 
 @Repository

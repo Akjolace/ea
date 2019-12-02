@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e79c6af-4b16-46c5-a858-9ca5fe2f862f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../AOP 1/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_unknown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AOP 1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AOP 1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AOP 1/W1D3-AOP-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AOP 1/W1D3-AOP-1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AOP 1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AOP 1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AOP 1/src/main/java/edu/mum/cs544/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../AOP 1/src/main/java/edu/mum/cs544/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AOP 1/src/main/java/edu/mum/cs544/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../AOP 1/src/main/java/edu/mum/cs544/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AOP 1/src/main/java/edu/mum/cs544/aop/EmailSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../AOP 1/src/main/java/edu/mum/cs544/aop/EmailSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AOP 1/src/main/java/edu/mum/cs544/aop/IEmailSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../AOP 1/src/main/java/edu/mum/cs544/aop/IEmailSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AOP 1/src/main/java/edu/mum/cs544/aop/LogAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../AOP 1/src/main/java/edu/mum/cs544/aop/LogAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AOP 1/src/main/java/edu/mum/cs544/aop/StopwatchAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../AOP 1/src/main/java/edu/mum/cs544/aop/StopwatchAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AOP 1/src/main/java/edu/mum/cs544/dao/CustomerDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../AOP 1/src/main/java/edu/mum/cs544/dao/CustomerDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AOP 1/src/main/java/edu/mum/cs544/dao/ICustomerDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../AOP 1/src/main/java/edu/mum/cs544/dao/ICustomerDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AOP 1/src/main/java/edu/mum/cs544/model/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../AOP 1/src/main/java/edu/mum/cs544/model/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AOP 1/src/main/java/edu/mum/cs544/model/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../AOP 1/src/main/java/edu/mum/cs544/model/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AOP 1/src/main/java/edu/mum/cs544/service/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../AOP 1/src/main/java/edu/mum/cs544/service/CustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AOP 1/src/main/java/edu/mum/cs544/service/ICustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../AOP 1/src/main/java/edu/mum/cs544/service/ICustomerService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1UPTB85GsQCv6a37ZTJ0MrYrHL5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e79c6af-4b16-46c5-a858-9ca5fe2f862f" name="Default Changelist" comment="" />
+      <created>1575257091344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575257091344</updated>
+      <workItem from="1575257092771" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

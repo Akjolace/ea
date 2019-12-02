@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5b90789-c5a9-45ec-abb8-036d43472b21" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../AOP 1/target/classes/edu/mum/cs544/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AOP 1/target/classes/edu/mum/cs544/Config.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AOP 1/target/classes/edu/mum/cs544/aop/EmailSender.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AOP 1/target/classes/edu/mum/cs544/aop/IEmailSender.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AOP 1/target/classes/edu/mum/cs544/aop/LogAspect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AOP 1/target/classes/edu/mum/cs544/aop/StopwatchAspect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AOP 1/target/classes/edu/mum/cs544/dao/CustomerDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AOP 1/target/classes/edu/mum/cs544/dao/ICustomerDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AOP 1/target/classes/edu/mum/cs544/model/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AOP 1/target/classes/edu/mum/cs544/model/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AOP 1/target/classes/edu/mum/cs544/service/CustomerService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AOP 1/target/classes/edu/mum/cs544/service/ICustomerService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AOP 1/target/classes/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AOP 1/target/classes/springconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AOP 1/target/test-classes/cs544/exercise13_1/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_9_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_5_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1D3-Bank_Application.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/mum/cs544/bank/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AOP 1/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_unknown.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_12_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AOP 1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AOP 1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AOP 1/W1D3-AOP-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../AOP 1/W1D3-AOP-1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AOP 1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AOP 1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AOP 1/src/main/java/edu/mum/cs544/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AOP 1/src/main/java/edu/mum/cs544/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AOP 1/src/main/java/edu/mum/cs544/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AOP 1/src/main/java/edu/mum/cs544/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AOP 1/src/main/java/edu/mum/cs544/aop/EmailSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AOP 1/src/main/java/edu/mum/cs544/aop/EmailSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AOP 1/src/main/java/edu/mum/cs544/aop/IEmailSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AOP 1/src/main/java/edu/mum/cs544/aop/IEmailSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AOP 1/src/main/java/edu/mum/cs544/aop/LogAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AOP 1/src/main/java/edu/mum/cs544/aop/LogAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AOP 1/src/main/java/edu/mum/cs544/aop/StopwatchAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AOP 1/src/main/java/edu/mum/cs544/aop/StopwatchAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AOP 1/src/main/java/edu/mum/cs544/dao/CustomerDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AOP 1/src/main/java/edu/mum/cs544/dao/CustomerDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AOP 1/src/main/java/edu/mum/cs544/dao/ICustomerDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AOP 1/src/main/java/edu/mum/cs544/dao/ICustomerDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AOP 1/src/main/java/edu/mum/cs544/model/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AOP 1/src/main/java/edu/mum/cs544/model/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AOP 1/src/main/java/edu/mum/cs544/model/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AOP 1/src/main/java/edu/mum/cs544/model/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AOP 1/src/main/java/edu/mum/cs544/service/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AOP 1/src/main/java/edu/mum/cs544/service/CustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AOP 1/src/main/java/edu/mum/cs544/service/ICustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AOP 1/src/main/java/edu/mum/cs544/service/ICustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/mum/cs544/bank/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/mum/cs544/bank/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/mum/cs544/bank/dao/AccountDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/mum/cs544/bank/dao/AccountDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/mum/cs544/bank/jms/IJMSSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/mum/cs544/bank/jms/IJMSSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/mum/cs544/bank/jms/JMSSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/mum/cs544/bank/jms/JMSSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/mum/cs544/bank/logging/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/mum/cs544/bank/logging/Logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/mum/cs544/bank/service/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/mum/cs544/bank/service/AccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/mum/cs544/bank/service/CurrencyConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/mum/cs544/bank/service/CurrencyConverter.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UPTIbBAPN5Ntdb5ruDts2VYqON" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.mum.cs544.bank.App" />
+      <module name="W1D3-Bank_Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.mum.cs544.bank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5b90789-c5a9-45ec-abb8-036d43472b21" name="Default Changelist" comment="" />
+      <created>1575257151220</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575257151220</updated>
+      <workItem from="1575257155721" duration="1907000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="402" key="GridCell.Tab.0.bottom" timestamp="1575260564672">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="402" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1575260564672" />
+    <state width="1398" height="402" key="GridCell.Tab.0.center" timestamp="1575260564670">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="402" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1575260564670" />
+    <state width="1398" height="402" key="GridCell.Tab.0.left" timestamp="1575260564669">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="402" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1575260564669" />
+    <state width="1398" height="402" key="GridCell.Tab.0.right" timestamp="1575260564671">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="402" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1575260564671" />
+    <state x="208" y="31" key="SettingsEditor" timestamp="1575259330232">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1575259330232" />
+  </component>
+</project>
