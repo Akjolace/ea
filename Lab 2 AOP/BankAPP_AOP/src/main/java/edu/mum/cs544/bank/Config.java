@@ -8,6 +8,6 @@ import org.springframework.context.annotation.EnableAspectJAutoProxy;
 
 @Configuration
 @ComponentScan("edu.mum.cs544.bank")
-@EnableAspectJAutoProxy(proxyTargetClass = true)
+@EnableAspectJAutoProxy()
 public class Config {
 }
