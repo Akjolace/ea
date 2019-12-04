@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5b90789-c5a9-45ec-abb8-036d43472b21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../BankAPP_AOP/target/W1D3-Bank_App_AOP-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BankAPP_AOP/target/classes/edu/mum/cs544/bank/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BankAPP_AOP/target/classes/edu/mum/cs544/bank/Config.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BankAPP_AOP/target/classes/edu/mum/cs544/bank/dao/AccountDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BankAPP_AOP/target/classes/edu/mum/cs544/bank/dao/IAccountDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BankAPP_AOP/target/classes/edu/mum/cs544/bank/domain/Account.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BankAPP_AOP/target/classes/edu/mum/cs544/bank/domain/AccountEntry.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BankAPP_AOP/target/classes/edu/mum/cs544/bank/domain/Customer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BankAPP_AOP/target/classes/edu/mum/cs544/bank/jms/IJMSSender.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BankAPP_AOP/target/classes/edu/mum/cs544/bank/jms/JMSSender.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BankAPP_AOP/target/classes/edu/mum/cs544/bank/logging/ILogger.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BankAPP_AOP/target/classes/edu/mum/cs544/bank/logging/Logger.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BankAPP_AOP/target/classes/edu/mum/cs544/bank/service/AccountService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BankAPP_AOP/target/classes/edu/mum/cs544/bank/service/CurrencyConverter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BankAPP_AOP/target/classes/edu/mum/cs544/bank/service/IAccountService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BankAPP_AOP/target/classes/edu/mum/cs544/bank/service/ICurrencyConverter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BankAPP_AOP/target/classes/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BankAPP_AOP/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BankAPP_AOP/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BankAPP_AOP/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BankAPP_AOP/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575257151220</updated>
-      <workItem from="1575257155721" duration="2426000" />
+      <workItem from="1575257155721" duration="3011000" />
     </task>
     <servers />
   </component>
@@ -120,22 +100,22 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="402" key="GridCell.Tab.0.bottom" timestamp="1575260564672">
+    <state width="1398" height="402" key="GridCell.Tab.0.bottom" timestamp="1575292982308">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="402" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1575260564672" />
-    <state width="1398" height="402" key="GridCell.Tab.0.center" timestamp="1575260564670">
+    <state width="1398" height="402" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1575292982308" />
+    <state width="1398" height="402" key="GridCell.Tab.0.center" timestamp="1575292982307">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="402" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1575260564670" />
-    <state width="1398" height="402" key="GridCell.Tab.0.left" timestamp="1575260564669">
+    <state width="1398" height="402" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1575292982307" />
+    <state width="1398" height="402" key="GridCell.Tab.0.left" timestamp="1575292982306">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="402" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1575260564669" />
-    <state width="1398" height="402" key="GridCell.Tab.0.right" timestamp="1575260564671">
+    <state width="1398" height="402" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1575292982306" />
+    <state width="1398" height="402" key="GridCell.Tab.0.right" timestamp="1575292982307">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="402" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1575260564671" />
+    <state width="1398" height="402" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1575292982307" />
     <state x="208" y="31" key="SettingsEditor" timestamp="1575259330232">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
